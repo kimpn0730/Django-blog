@@ -1,0 +1,11 @@
+python 3.6.5
+django 1.11.15
+
+project : mysite .
+app : blog
+virtualenv : python -m venv myvenv
+
+기능개요
+게시판 글쓰기 기능
+게시판 댓글 기능
+게시판 음성 녹음 기능
