@@ -5,7 +5,7 @@ project : mysite .
 app : blog
 virtualenv : python -m venv myvenv
 
-기능개요
+기능설명
 게시판 글쓰기 기능
 게시판 댓글 기능
 게시판 음성 녹음 기능
